@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Nathalia",
+        "idade": "23",
+        "animal": "panda"
+        
+    },
+    {
+        "nome": "Lulu",
+        "animal": "lulu",
+        "idade": "10.000"
+    },
+    {
+        "nome": "Rayane",
+        "idade": "21",
+        "animal": "tigre"
+    },
+    {
+        "nome": "Xuxu",
+        "idade": "21",
+        "animal": "xuxu"
+    },
+    {
+        "nome": "Josias",
+        "idade": "34,5",
+    }
+]
